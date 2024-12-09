@@ -43,7 +43,7 @@
     background-color: white;
     gap: 15px;
     font-size: 1.5vw;
-    margin-top: 2px;
+    margin-top: 4px;
     margin-bottom: 2px;
     height: 4%;
     z-index: 20;
@@ -81,7 +81,7 @@
   .home {
     background-image:url(slide-img1.jpg);
     animation-name: slide;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-direction:normal;
     background-size: cover;
